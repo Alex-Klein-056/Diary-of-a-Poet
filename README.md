@@ -1,7 +1,7 @@
 Hi!
 
 I am Alex,
-a Computer Science batch '25 freshman.
+a BS Computer Science batch '25 freshman.
 
 The purpose of this repository is not to share my programming progress.
 Instead, the purpose of this repository is to serve as a journal entry for me in my journey of being a CS student,
